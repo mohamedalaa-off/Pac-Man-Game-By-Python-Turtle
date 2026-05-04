@@ -77,10 +77,10 @@ Master the maze with simple, responsive controls:
 
 | Key Binding | Action |
 | :---: | :--- |
-| <kbd>W</kbd> or <kbd>↑</kbd> | Move Up |
-| <kbd>S</kbd> or <kbd>↓</kbd> | Move Down |
-| <kbd>A</kbd> or <kbd>←</kbd> | Move Left |
-| <kbd>D</kbd> or <kbd>→</kbd> | Move Right |
+| <kbd>W</kbd>  | Move Up |
+| <kbd>S</kbd>  | Move Down |
+| <kbd>A</kbd>  | Move Left |
+| <kbd>D</kbd>  | Move Right |
 | <kbd>Esc</kbd> | Quit Game |
 
 ---
